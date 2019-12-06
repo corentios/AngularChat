@@ -101,6 +101,34 @@
       "userName": "Corentin",
       "channelId": "1",
       "id": 12
+    },
+    {
+      "message": "\n",
+      "date": "2019-12-06T15:20:06.896Z",
+      "userName": "Alo",
+      "channelId": "3",
+      "id": 13
+    },
+    {
+      "message": "\n",
+      "date": "2019-12-06T15:20:07.545Z",
+      "userName": "Alo",
+      "channelId": "3",
+      "id": 14
+    },
+    {
+      "message": "\n",
+      "date": "2019-12-06T15:20:07.905Z",
+      "userName": "Alo",
+      "channelId": "3",
+      "id": 15
+    },
+    {
+      "message": "\n",
+      "date": "2019-12-06T15:20:08.074Z",
+      "userName": "Alo",
+      "channelId": "3",
+      "id": 16
     }
   ]
 }

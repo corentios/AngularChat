@@ -1,0 +1,30 @@
+<div class="salon">
+    <mat-list *ngIf="messages?.length > 0; else noMessage">
+        <mat-list-item style="color: black;" *ngFor="let message of messages">
+            "{{ message.userName }}" a dit : {{ message.message }}
+        </mat-list-item>
+    </mat-list>
+    <ng-template #noMessage>
+        <h2>Pas de message</h2>
+    </ng-template>
+    <form
+            class="message-field"
+            [formGroup]="messagesForm"
+            (ngSubmit)="submitMessage()"
+            (keyup.enter)="submitMessage()"
+    >
+        <mat-form-field class="message-input">
+      <textarea
+              id="input"
+              formControlName="message"
+              matInput
+              placeholder="Entrer un message..."
+              value=""
+              style="background-color: #f2f2f2;"
+      ></textarea>
+        </mat-form-field>
+        <button type="submit" mat-flat-button color="primary" class="message-btn">
+            Envoyer
+        </button>
+    </form>
+</div>
