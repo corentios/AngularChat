@@ -1,0 +1,106 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "Général"
+    },
+    {
+      "id": 2,
+      "name": "BDE"
+    },
+    {
+      "id": 3,
+      "name": "Vie étudiante"
+    },
+    {
+      "id": 4,
+      "name": "Programmation"
+    }
+  ],
+  "messages": [
+    {
+      "message": "Salut",
+      "date": "2019-12-06T14:04:07.266Z",
+      "userName": "Test",
+      "channelId": "3",
+      "id": 1
+    },
+    {
+      "message": "Alo\n",
+      "date": "2019-12-06T14:16:50.020Z",
+      "userName": "aa",
+      "channelId": "1",
+      "id": 2
+    },
+    {
+      "message": "a\n",
+      "date": "2019-12-06T14:16:53.143Z",
+      "userName": "aa",
+      "channelId": "1",
+      "id": 3
+    },
+    {
+      "message": "a\n",
+      "date": "2019-12-06T14:16:54.113Z",
+      "userName": "aa",
+      "channelId": "1",
+      "id": 4
+    },
+    {
+      "message": "Alo\n",
+      "date": "2019-12-06T14:16:58.133Z",
+      "userName": "aa",
+      "channelId": "1",
+      "id": 5
+    },
+    {
+      "message": "Alors",
+      "date": "2019-12-06T14:17:18.599Z",
+      "userName": "Corentin",
+      "channelId": "3",
+      "id": 6
+    },
+    {
+      "message": "",
+      "date": "2019-12-06T14:17:19.437Z",
+      "userName": "Corentin",
+      "channelId": "3",
+      "id": 7
+    },
+    {
+      "message": "alors",
+      "date": "2019-12-06T14:17:22.423Z",
+      "userName": "Corentin",
+      "channelId": "3",
+      "id": 8
+    },
+    {
+      "message": "Alors oui",
+      "date": "2019-12-06T14:29:24.806Z",
+      "userName": "a",
+      "channelId": "1",
+      "id": 9
+    },
+    {
+      "message": "trop fort\n",
+      "date": "2019-12-06T14:29:27.686Z",
+      "userName": "a",
+      "channelId": "1",
+      "id": 10
+    },
+    {
+      "message": "L'Angular c'est nul\n",
+      "date": "2019-12-06T14:58:06.498Z",
+      "userName": "Alo",
+      "channelId": "1",
+      "id": 11
+    },
+    {
+      "message": "nous\n",
+      "date": "2019-12-06T14:58:16.239Z",
+      "userName": "Corentin",
+      "channelId": "1",
+      "id": 12
+    }
+  ]
+}
